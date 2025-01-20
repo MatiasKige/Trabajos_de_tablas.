@@ -1,0 +1,5 @@
+Agregamos el campo sexo y fe_contratacion.
+Ingresamos un registro incluyendo valores en sexo y fe_contratacion.
+Eliminamos los campos fe_contratacion y sexo.
+Renombramos el campo idempleado por id.
+Convertimos a mayúsculas los nombres de los campos.
