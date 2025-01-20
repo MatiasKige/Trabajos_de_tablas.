@@ -1,0 +1,7 @@
+-- Principal --
+
+Creación de tabla Empleados (Clase6).
+Ingreso de 2 registros en tabla Empleados (Clase 7).
+exec sp_help empleados; --Ver campos de la tabla y sus tipos de datos.
+Se muestra la tabla con los nuevos 2 registros.
+
