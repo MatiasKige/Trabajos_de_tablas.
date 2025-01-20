@@ -1,1 +1,9 @@
-Consultamos la tabla Empleados utilizando un filtro (WHERE).
+Tabla Empleados completa.
+
+Empleados de nombre Jorge.
+Nombre, apellido y edad de Empleados de edad 29.
+Empleados de idempleado 3.
+Empleados de edad distinta a 25.
+Empleados de salario mayor a 2000.
+Empleados de salario menor a 3000.
+Empleados de salario menor o igual a 2500.
