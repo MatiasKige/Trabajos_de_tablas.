@@ -1,0 +1,1 @@
+Consultamos la tabla Empleados utilizando un filtro (WHERE).

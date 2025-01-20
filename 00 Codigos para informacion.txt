@@ -1,1 +1,5 @@
+select * from sys.databases; --Ver bases de datos existentes.
+
 select * from sys.tables; --Ver las tablas en la base de datos
+
+exec sp_help Empleados; --Ver infomacion de la tabla Empleados.
