@@ -1,0 +1,4 @@
+Crea base de datos Prueba y Prueba2.
+Elimina base de datos Prueba2.
+Información de las bases de datos existentes.
+Renombra base de datos Prueba a Principal.
