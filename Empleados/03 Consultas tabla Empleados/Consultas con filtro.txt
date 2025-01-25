@@ -7,3 +7,6 @@ Empleados de edad distinta a 25.
 Empleados de salario mayor a 2000.
 Empleados de salario menor a 3000.
 Empleados de salario menor o igual a 2500.
+Los primeros 5 empleados.
+El 50 por ciento de los empleados.
+los primeros 5 empleados donde activo sea NO.

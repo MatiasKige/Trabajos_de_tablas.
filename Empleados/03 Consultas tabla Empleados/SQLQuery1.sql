@@ -17,5 +17,12 @@ select * from Empleados where salario < 3000;
 
 select * from Empleados where salario <= 2500;
 
+select top 5 * from Empleados;
+
+select top 50 percent * from Empleados;
+
+select top 5 * from Empleados
+where activo = 'NO';
+
 
 
