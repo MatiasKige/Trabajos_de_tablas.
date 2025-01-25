@@ -1,0 +1,6 @@
+Vemos la tabla Clientes.
+Vemos los clientes que contengan valores nulos en el nombre.
+Vamos los clientes que contengan valores nulos en la direccion.
+Vemos los clientes que no contengan valores nulos en el nombre.
+Reemplazo los valores nulos en dirección por 'no tiene'.
+Elimino los clientes que contengan valor nulo en nombre.

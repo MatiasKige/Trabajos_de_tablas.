@@ -1,0 +1,1 @@
+Creamos la tabla Clientes con los campos idcliente, nombre, apellido y direccion.
