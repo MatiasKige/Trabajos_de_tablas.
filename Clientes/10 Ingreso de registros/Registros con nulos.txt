@@ -1,1 +1,3 @@
 Se ingresan 20 registros incluyendo valores nulos.
+
+Ingresamos dos nuevos valores en la nueva tabla Clientes que contiene restricciones para valores nulos.

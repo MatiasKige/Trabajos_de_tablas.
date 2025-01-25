@@ -1,1 +1,5 @@
 Creamos la tabla Clientes con los campos idcliente, nombre, apellido y direccion.
+
+Eliminamos la tabla Clientes.
+
+Creamos una nueva tabla Clientes con los campos idcliente, nombre, dirección, teléfono y email. Solo los campos teléfono y email admitirán valores nulos.

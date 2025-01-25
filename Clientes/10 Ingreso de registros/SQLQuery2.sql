@@ -18,3 +18,7 @@ insert into clientes values(17,'Martha','Fernandez', NULL);
 insert into clientes values(18,NULL, 'Martinez',  'Calle Q Ciudad');
 insert into clientes values(19,'Pablo', NULL, NULL);
 insert into clientes values(20, NULL, 'Lopez', 'Calle S Ciudad');
+
+
+insert into Clientes values(1,'Jose','calle primera',null,'email@.com');
+insert into Clientes values(2,'Manuel','calle segunda',null,null);
