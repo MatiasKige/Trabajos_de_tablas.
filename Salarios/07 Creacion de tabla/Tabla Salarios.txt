@@ -1,0 +1,1 @@
+Creamos la tabla Salarios con los campos nombre apellido y salario.

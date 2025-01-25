@@ -1,0 +1,4 @@
+Vemos las tablas Salario y Empleados.
+Insertamos en los campos nombre apellido y salario de la tabla Salarios los valores en nombre apellido y salario de la tabla Empleados.
+Limpiamos la tabla Salarios.
+Insertamos en los campos nombre apellido y salario de la tabla Salarios los valores en nombre apellido y salario de la tabla Empleados donde el salario será mayor a 2500.
