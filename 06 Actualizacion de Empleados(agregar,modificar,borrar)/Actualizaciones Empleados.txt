@@ -1,0 +1,5 @@
+Actializamos la tabla Empleados estableciendo el teléfono 80033444 al id 3.
+Actualizamos la tabla Empleados estableciendo al campo activo el valor SI.
+Actualizamos la tabla Empleados estableciendo el valor no para el campo activo cuando el id sea 1,3,5,7 y 9.
+Vemos los registros de Empleados donde edad sea 25, 31 y 34.
+Eliminamos los registros de Empleados donde edad sea 3, 8 y 15.
